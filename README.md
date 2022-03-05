@@ -16,7 +16,7 @@ A webapp to-do list and progress tracker.
 
 ## Screenshot
 
-https://github.com/ShuanLim/taskmaster-pro/tree/develop#:~:text=taskmasterProScreenshot.png
+
 
 
 ## Contribution
